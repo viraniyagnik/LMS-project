@@ -1,0 +1,14 @@
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\bin\Debug\netcoreapp3.1\LMS_project.exe
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\bin\Debug\netcoreapp3.1\LMS_project.deps.json
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\bin\Debug\netcoreapp3.1\LMS_project.runtimeconfig.json
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\bin\Debug\netcoreapp3.1\LMS_project.runtimeconfig.dev.json
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\bin\Debug\netcoreapp3.1\LMS_project.dll
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\bin\Debug\netcoreapp3.1\LMS_project.pdb
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.csproj.AssemblyReference.cache
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.AssemblyInfoInputs.cache
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.AssemblyInfo.cs
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.csproj.CoreCompileInputs.cache
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.dll
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.pdb
+D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\LMS project\LMS-project\LMS_project\obj\Debug\netcoreapp3.1\LMS_project.genruntimeconfig.cache
